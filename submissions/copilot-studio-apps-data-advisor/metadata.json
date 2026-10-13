@@ -1,0 +1,12 @@
+{
+  "name": "Copilot Studio Apps: Data Advisor",
+  "description": "Pick the right data home for a Copilot Studio app (sample, browser-local, SharePoint, Dataverse, Excel) and get the exact prompt, a permission check and fixes for common data issues.",
+  "platforms": ["Copilot Studio"],
+  "tags": ["copilot-studio", "apps", "data", "sharepoint", "dataverse", "excel", "governance"],
+  "author": "Renato Romão",
+  "authorUrl": "https://www.linkedin.com/in/renatoromao/",
+  "authorGithub": "renatoromao",
+  "version": "1.0.0",
+  "createdAt": "2026-10-13",
+  "updatedAt": "2026-10-13"
+}
