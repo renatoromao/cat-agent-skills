@@ -1,0 +1,12 @@
+{
+  "name": "Copilot Studio Apps: Publish Readiness",
+  "description": "Go/no-go check before publishing and sharing a Copilot Studio app: scenarios, data, connections, permissions and consent, plus a ready-to-send sharing message.",
+  "platforms": ["Copilot Studio"],
+  "tags": ["copilot-studio", "apps", "governance", "go-live", "security", "readiness"],
+  "author": "Renato Romão",
+  "authorUrl": "https://www.linkedin.com/in/renatoromao/",
+  "authorGithub": "renatoromao",
+  "version": "1.0.0",
+  "createdAt": "2026-10-13",
+  "updatedAt": "2026-10-13"
+}
