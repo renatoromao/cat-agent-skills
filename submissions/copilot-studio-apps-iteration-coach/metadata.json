@@ -1,0 +1,12 @@
+{
+  "name": "Copilot Studio Apps: Iteration Coach",
+  "description": "Turn feedback and screenshots on a Copilot Studio app draft into small, ordered change prompts with acceptance criteria and a preview test script.",
+  "platforms": ["Copilot Studio"],
+  "tags": ["copilot-studio", "apps", "iteration", "testing", "power-platform", "maker"],
+  "author": "Renato Romão",
+  "authorUrl": "https://www.linkedin.com/in/renatoromao/",
+  "authorGithub": "renatoromao",
+  "version": "1.0.0",
+  "createdAt": "2026-10-13",
+  "updatedAt": "2026-10-13"
+}
